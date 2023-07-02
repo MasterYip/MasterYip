@@ -15,12 +15,12 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterYip&layout=compact)](https://github.com/MasterYip/github-readme-stats)
 
-<!-- Commit Snake -->
+
 <p align="center">
   <img src="https://github.com/MasterYip/MasterYip/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Profile Views -->
+
 <h3 align="center">📈Profile Views</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/MasterYip/count.svg" />
