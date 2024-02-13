@@ -4,16 +4,22 @@
 - 🌱 I’m interested in **Robot Control** and **AI**
 
 ### 📚 Repo Index
+
+> [Personal Navi](https://github.com/MasterYip/personal_assets/blob/master/repo_navigation.md)
+
 #### Robotics
+
 - [HexapodElevationMapping](https://github.com/MasterYip/HexapodElevationMapping): Sensor Module & Elevation mapping bundle for Robot both in simulation and real world.
 - [LeggedKinModule](https://github.com/MasterYip/LeggedKinModule): A kinematic module for legged robots which have leg-symmetry using Pinocchio & IKFast.
 - [IKFast_wrapper](https://github.com/MasterYip/IKFast_wrapper): A IKFast wrapper for Inverse Kinematics.
 
 #### ChatGPT Applications
+
 - [ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind): A useful tool for **paper to Xmind conversion**.
 - [ChatGPT_API_NoKey](https://github.com/MasterYip/ChatGPT_API_NoKey): A fake ChatGPT API server free of charging!
 
 #### Useful Tools
+
 - [XmindCopilot](https://github.com/MasterYip/XmindCopilot): A Xmind note editor.
 - [python-InvoiceMgr](https://github.com/MasterYip/python-InvoiceMgr): A invoice manager that helps with reimbursement.
 - [NotingDown](https://github.com/MasterYip/NotingDown): A screenshot and document image reinforcement software.
