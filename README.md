@@ -12,6 +12,7 @@
 - [HexapodElevationMapping](https://github.com/MasterYip/HexapodElevationMapping): Sensor Module & Elevation mapping bundle for Robot both in simulation and real world.
 - [LeggedKinModule](https://github.com/MasterYip/LeggedKinModule): A kinematic module for legged robots which have leg-symmetry using Pinocchio & IKFast.
 - [IKFast_wrapper](https://github.com/MasterYip/IKFast_wrapper): A IKFast wrapper for Inverse Kinematics.
+- [ros_visualizer](https://github.com/MasterYip/ros_visualizer): A simple&light ros visualizer for RViz.
 
 #### ChatGPT Applications
 
