@@ -1,3 +1,8 @@
+![SFTR2024](https://github.com/user-attachments/assets/7f176ed0-97db-4eda-a72b-7f4cfce42556)
+<div style="text-align: center; color: #808080; font-weight: bold;">
+═══ Ad astra per aspera ═══
+</div>
+
 
 ### ⭐ Things About Me
 - 📚 I’m currently studying **Control Science and Engineering** in **Harbin Institute of Technology**
