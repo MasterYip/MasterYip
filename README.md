@@ -20,18 +20,22 @@
 - [ros_visualizer](https://github.com/MasterYip/ros_visualizer): A simple&light ros visualizer for RViz.
 - [excavator_ws](https://github.com/MasterYip/excavator_ws): Excavator ROS workspace for arm & chasis control based on Moveit! & move_base.
 
-#### ChatGPT Applications
+#### LLM Applications
 
 - [ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind): A useful tool for **paper to Xmind conversion**.
 - [ChatGPT_API_NoKey](https://github.com/MasterYip/ChatGPT_API_NoKey): A fake ChatGPT API server free of charging!
 
 #### Useful Tools
 
+- [ZoteroDB-Analyzer](https://github.com/MasterYip/ZoteroDB-Analyzer): Zotero Database Analyzer for Literature Review Fast Composing.
 - [XmindCopilot](https://github.com/MasterYip/XmindCopilot): A Xmind note editor.
 - [python-InvoiceMgr](https://github.com/MasterYip/python-InvoiceMgr): A invoice manager that helps with reimbursement.
 - [NotingDown](https://github.com/MasterYip/NotingDown): A screenshot and document image reinforcement software.
 - [ProjectKeeper](https://github.com/MasterYip/ProjectKeeper): A git-like software that helps organize and back up files in projects.
 
+#### Others
+
+- [FutrueRobotics2098](https://github.com/MasterYip/FutureRobotics2098): A brief history of Future Robotics.
 
 ### 📫 How to Reach Me
 - Email: 2205929492@qq.com
