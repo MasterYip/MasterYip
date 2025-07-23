@@ -2,6 +2,21 @@
 **Ad astra per aspera.**
 
 ### ⭐ Things About Me
+[![GitHub followers](https://img.shields.io/github/followers/MasterYip?style=flat&logo=github&label=github%20followers&labelColor=black)](https://github.com/MasterYip)
+[![Bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D505246402&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37697)](https://space.bilibili.com/505246402)
+[![zhihu followers](https://img.shields.io/badge/zhihu%20followers-102-0f81c2?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/masteryip)
+
+
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat-square&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner-A5915F?style=flat-square&logo=AltiumDesigner&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-EB2629?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-green?style=flat-square)
+![CubeMX](https://img.shields.io/badge/CubeMX-blue?style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
 - 📚 I’m currently studying **Control Science and Engineering** in **Harbin Institute of Technology**
 - 🌱 I’m interested in **Robot Control** and **AI**
 
