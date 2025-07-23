@@ -1,7 +1,9 @@
-![SFTR2024](https://github.com/user-attachments/assets/7f176ed0-97db-4eda-a72b-7f4cfce42556)
+<!--![SFTR2024](https://github.com/user-attachments/assets/7f176ed0-97db-4eda-a72b-7f4cfce42556)
 **Ad astra per aspera.**
+-->
+![Image](https://github.com/user-attachments/assets/77a3e5d1-62ee-4594-9234-72c800d4729d)
 
-### ⭐ Things About Me
+
 [![GitHub followers](https://img.shields.io/github/followers/MasterYip?style=flat&logo=github&label=github%20followers&labelColor=black)](https://github.com/MasterYip)
 [![Bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D505246402&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37697)](https://space.bilibili.com/505246402)
 [![zhihu followers](https://img.shields.io/badge/zhihu%20followers-102-grey?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/masteryip)
@@ -17,6 +19,8 @@
 ![CubeMX](https://img.shields.io/badge/CubeMX-blue?style=flat-square)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Audodesk_Maya-grey?style=flat-square&logo=autodeskmaya&logoColor=ffffff&logoSize=auto)
+---
+### Now You See Me
 
 - 📚 I’m currently studying **Control Science and Engineering** in **Harbin Institute of Technology**
 - 🌱 I’m interested in **Robot Control** and **AI**
