@@ -4,8 +4,8 @@
 ### ⭐ Things About Me
 [![GitHub followers](https://img.shields.io/github/followers/MasterYip?style=flat&logo=github&label=github%20followers&labelColor=black)](https://github.com/MasterYip)
 [![Bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D505246402&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37697)](https://space.bilibili.com/505246402)
-[![zhihu followers](https://img.shields.io/badge/zhihu%20followers-102-0f81c2?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/masteryip)
-![XHS](https://img.shields.io/badge/XHS%20follower-43-red?style=flat&logo=xiaohongshu&logoColor=%23%23ee0000&logoSize=auto&labelColor=888888&link=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F66ac67a2000000001d031d55)
+[![zhihu followers](https://img.shields.io/badge/zhihu%20followers-102-grey?style=flat&logo=zhihu&logoColor=white&labelColor=%23018cff)](https://www.zhihu.com/people/masteryip)
+![XHS followers](https://img.shields.io/badge/XHS%20followers-43-ee0000?style=flat&logo=xiaohongshu&logoColor=%23%23ee0000&logoSize=auto&labelColor=ffffff&link=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F66ac67a2000000001d031d55)
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat-square&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
