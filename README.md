@@ -16,6 +16,7 @@
 ![Keil](https://img.shields.io/badge/Keil-green?style=flat-square)
 ![CubeMX](https://img.shields.io/badge/CubeMX-blue?style=flat-square)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Audodesk_Maya-grey?style=flat-square&logo=autodeskmaya&logoColor=ffffff&logoSize=auto)
 
 - 📚 I’m currently studying **Control Science and Engineering** in **Harbin Institute of Technology**
 - 🌱 I’m interested in **Robot Control** and **AI**
