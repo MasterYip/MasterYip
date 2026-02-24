@@ -31,6 +31,7 @@
 
 #### Robotics
 
+- [PegasusFlow](https://github.com/MasterYip/PegasusFlow): Implementation of [PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching](https://masteryip.github.io/pegasusflow.github.io/).
 - [FLTPlanner](https://github.com/MasterYip/FLTPlanner): Implementation of [**K**iniematic **C**ollision-aware **F**oothold **R**eachability **C**riteria](https://masteryip.github.io/fltplanner.github.io/) (**KCFRC**) and MINCO trajectory optimization for legged locomotion.
 - [hexapod_control](https://github.com/MasterYip/hexapod_control): Hexapod MPC-WBC controller based on OCS2 & legged_control.
 - [HexapodElevationMapping](https://github.com/MasterYip/HexapodElevationMapping): Sensor Module & Elevation mapping bundle for Robot both in simulation and real world.
